@@ -31,6 +31,7 @@ The follwoing was used as our test equipment
     5. Fluke DMM 
 # Test Results
 ![image](https://user-images.githubusercontent.com/46692032/51654704-1ec79680-1f67-11e9-9c9d-ee6e455a750c.png)
+ 
  The test results showed us that when you measure values for resistors, capacitors, and other lab tools, they all are very similar to the value that it is supposed to be. 
 # Discussion
 Q1: For Step 2, Do the instruments agree with each other and with the expected value?
