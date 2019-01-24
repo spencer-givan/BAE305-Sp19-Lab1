@@ -47,8 +47,10 @@ IV.
  The test results showed us that when you measure values for resistors, capacitors, and other lab tools, they all are very similar to the value that it is supposed to be. 
 # Discussion
 Q1: For Step 2, Do the instruments agree with each other and with the expected value?
-The instruments values and the expected values are close to each other.
+- The instruments values and the expected values are close to each other. All values that were measured were also within the allowed tolerance for both the Fluke and Generic DMM.
+
 Q2: For Step 3, Do the instruments agree with each other?
-For the most part, the values were all similar to each other when comparing the actual value to the instrument.
+- For the most part, the values were all similar to each other when comparing the actual value to the instrument.
+
 Q3: For Step 4, Do the instruments agree?
-The instruments all have similar range for their values, so they agree.
+- The instruments all have similar range for their values, so they agree.
