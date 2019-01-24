@@ -9,7 +9,7 @@ We used the following materials in this lab
 - Circuit Wires
 - A Proto Board
 # Assembly Procedures
-Details.
+The following procedures can be found in the below section of 'Test Procedures' since the two go hand in hand.
 # Test Equipment
 The follwoing was used as our test equipment
 - Fluke Digital Multimeter (DMM)
@@ -18,12 +18,20 @@ The follwoing was used as our test equipment
 - Function Generator
 - Direct Current Power Supply
 - Dedicated Capacitance Meter
-# Test Procedure
+# Test Procedures
 - Objective 1 - Use the lab equipment to verify values and measurements of components
- 1. Using a Fluke and Generice Digital Multimeters (DMM), determine the actual values of the four given resistors and seperate in a table.
- 2. Repeat step one for the four given capacitors.
- 3. Set up the given D.C. power supply, set up the voltage output V1 and V2 to +1.5V, +5.0, +7.0V, +12.0V. Measure the actual values with the provided DMM. Compare the measured values on the DMM to the meter on the front of the power supply.
- 4. Connect the Function Generator (FG) to the proto board and set a 2kHz sine wave of maximum amplitude. Observe the wave. Measure amplitude and frequency of the wave in the five different ways. Compare these values to the values on the Function Generator itself. Summarize.
+ Task 1. 
+ - Using a Fluke and Generice Digital Multimeters (DMM), determine the actual values of the four given resistors and seperate in a table.
+ - Now, use a color coded chart to determine the actual resistance and tolerance of the provided resistor.
+ Task 2. 
+ - Repeat step one for the four given capacitors. Except this time, calculate the expected capacitance by reading the code and reffering to the provided chart.
+ Task 3. 
+ - Set up the given D.C. power supply, set up the voltage output V1 to +1.5V, +5.0, +7.0V, +12.0V. Measure the actual values with the provided DMM. 
+ - Now, repeat for the V2 output.
+ - Compare the measured values on the DMM to the meter on the front of the power supply.
+ Task 4. 
+ - Connect the Function Generator (FG) to the proto board and set a 2kHz sine wave of maximum amplitude. Observe the wave on the oscilloscope. 
+ - Measure amplitude and frequency of the wave in the five different ways. Compare these values to the values on the Function Generator itself. Summarize. For all values, we meausred peak to peak.
     1. “Counting squares” on the oscilloscope screen
     2. Using the moveable cursors on the oscilloscope
     3. Using the measurement features of the oscilloscope
