@@ -3,11 +3,22 @@
 # Summary
 The overall goal for this lab was an introduction on how to use several essential pieces of electronic test equipment. The main reason it is important that we learn how to use the equipment now is because, they will be used in future labs and a basic knowledge must be formed now for later success in the future.
 # Materials
-Unknown.
+We used the following materials in this lab
+- Four different Capacitors
+- Four different Resistors
+Coloring codes are: Grey Red Black Gold - Red Red Black Gold - Yellow Purple Green Gold - Brown Black Red Gold
+- Circuit Wires
+- A Proto Board
 # Assembly Procedures
 Details.
 # Test Equipment
-Details.
+The follwoing was used as our test equipment
+- Fluke Digital Multimeter (DMM)
+- Generic Digital Multimeter
+- Oscilloscope
+- Function Generator
+- Direct Current Power Supply
+- Dedicated Capacitance Meter
 # Test Procedure
 - Objective 1 - Use the lab equipment to verify values and measurements of components
  1. Using a Fluke and Generice Digital Multimeters (DMM), determine the actual values of the four given resistors and seperate in a table.
@@ -18,10 +29,9 @@ Details.
     2. Using the moveable cursors on the oscilloscope
     3. Using the measurement features of the oscilloscope
     4. Generic DMM
-    5. Fluke DMM
-- Objective 2 - 
+    5. Fluke DMM 
 # Test Results
-	
+ The test results showed us that when you measure values for resistors, capacitors, and other lab tools, they all are very similar to the value that it is supposed to be. 
 # Discussion
 Q1: For Step 2, Do the instruments agree with each other and with the expected value?
 The instruments values and the expected values are close to each other.
