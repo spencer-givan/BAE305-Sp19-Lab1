@@ -5,8 +5,7 @@ The overall goal for this lab was an introduction on how to use several essentia
 # Materials
 We used the following materials in this lab
 - Four different Capacitors
-- Four different Resistors
-Coloring codes are: Grey Red Black Gold - Red Red Black Gold - Yellow Purple Green Gold - Brown Black Red Gold
+- Four different Resistors, Coloring codes are: Grey Red Black Gold - Red Red Black Gold - Yellow Purple Green Gold - Brown Black Red Gold
 - Circuit Wires
 - A Proto Board
 # Assembly Procedures
