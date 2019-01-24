@@ -20,15 +20,19 @@ The follwoing was used as our test equipment
 - Dedicated Capacitance Meter
 # Test Procedures
 - Objective 1 - Use the lab equipment to verify values and measurements of components
+
 I.
 - Using a Fluke and Generice Digital Multimeters (DMM), determine the actual values of the four given resistors and seperate in a table.
 - Now, use a color coded chart to determine the actual resistance and tolerance of the provided resistor.
+
 II.
 - Repeat step one for the four given capacitors. Except this time, calculate the expected capacitance by reading the code and reffering to the provided chart.
+
 III.
 - Set up the given D.C. power supply, set up the voltage output V1 to +1.5V, +5.0, +7.0V, +12.0V. Measure the actual values with the provided DMM. 
  - Now, repeat for the V2 output.
  - Compare the measured values on the DMM to the meter on the front of the power supply.
+ 
 IV.
 - Connect the Function Generator (FG) to the proto board and set a 2kHz sine wave of maximum amplitude. Observe the wave on the oscilloscope. 
 - Measure amplitude and frequency of the wave in the five different ways. Compare these values to the values on the Function Generator itself. Summarize. For all values, we meausred peak to peak.
