@@ -50,7 +50,9 @@ Q1: For Step 2, Do the instruments agree with each other and with the expected v
 - The instruments values and the expected values are close to each other. All values that were measured were also within the allowed tolerance for both the Fluke and Generic DMM.
 
 Q2: For Step 3, Do the instruments agree with each other?
-- For the most part, the values were all similar to each other when comparing the actual value to the instrument.
+- For the most part, the values were all similar to each other when comparing the actual value to the instrument. All the values measured for the four different voltages were close to their actaul voltage output on the screen.
 
 Q3: For Step 4, Do the instruments agree?
-- The instruments all have similar range for their values, so they agree.
+- The instruments all have similar range for their values, so they agree. This holds true for the frequency. However, when it comes to the amplitude the valuse were not consistent at all. When measuring peak to peak on the oscilloscope there was some consistency, but when measuring with the Fluke and Generic DMM  there was a 1.5 V difference. The cause for this is unkwown, but it could just be user error and possibly wear and tear over time.
+
+I believe overall the purpose of this lab was accomplished, because we were introduced to different materials and now know our basic knowledge.
